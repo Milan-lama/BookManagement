@@ -1,0 +1,30 @@
+.navbar{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    color: lightgray;
+    margin: 10px;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+@media (max-width: 800px) {
+    .navbar {
+        height: 70px;
+    }
+}
+.navbar .username{
+    font-weight: bold;
+    color: black;
+
+}
+
+.navbar button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
