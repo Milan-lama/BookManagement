@@ -12,10 +12,6 @@ A modern, efficient web application for managing your book collection. Built wit
 - **⚡ Fast Performance**: Lightning-fast loading with Vite build tool
 - **🎨 Modern UI**: Clean and intuitive user interface
 
-## 📸 Screenshots
-
-> Add your application screenshots here to showcase the interface
-
 ## 🚀 Tech Stack
 
 - **Frontend**: React.js
